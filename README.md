@@ -1,9 +1,9 @@
 - 👋 Olá, sou Kaua
 - 👀 Estou interessado em trabalhar em fron-end
 - 🌱 Atualmente estou aprendendo
-- 💞️ Procuro de progamador estagio
-- 📫 Como entrar em contato comigo @Japones_14k
-- ⚡ Curiosidade: sou muito esforçado 
+- 👨🏽‍🎓 Procuro estagio de progamador
+- 📫 Como entrar em contato comigo WhatsApp (33) 99872-7745
+- ⚡ Curiosidade: sou muito esforçado e Aprendo rapido.
 
 
 <!---
