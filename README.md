@@ -1,5 +1,5 @@
 - 👋 Olá, sou Kaua
-- 👀 Estou interessado em ...
+- 👀 Estou interessado em trabalhar em fron-end
 - 🌱 Atualmente estou aprendendo
 - 💞️ Procuro de progamador estagio
 - 📫 Como entrar em contato comigo @Japones_14k
